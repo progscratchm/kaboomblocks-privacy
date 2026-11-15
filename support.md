@@ -48,4 +48,6 @@ much easier to fix.
 
 ## Privacy
 
-See the [privacy policy](./). Short version: nothing leaves your device.
+See the [privacy policy](./). Short version: your scores and settings
+stay on your device. The two things that leave it are advertising, which Remove Ads
+stops entirely, and the three numbers sent to Game Center leaderboards.
